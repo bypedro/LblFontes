@@ -1,0 +1,9 @@
+C:\Users\Pedro\AppData\Local\Temporary Projects\LblFontes\bin\Debug\LblFontes.dll
+C:\Users\Pedro\AppData\Local\Temporary Projects\LblFontes\bin\Debug\LblFontes.pdb
+C:\Users\Pedro\AppData\Local\Temporary Projects\LblFontes\bin\Debug\LblFontes.xml
+C:\Users\Pedro\AppData\Local\Temporary Projects\LblFontes\obj\Debug\LblFontes.LblFontes.resources
+C:\Users\Pedro\AppData\Local\Temporary Projects\LblFontes\obj\Debug\LblFontes.Resources.resources
+C:\Users\Pedro\AppData\Local\Temporary Projects\LblFontes\obj\Debug\LblFontes.vbproj.GenerateResource.Cache
+C:\Users\Pedro\AppData\Local\Temporary Projects\LblFontes\obj\Debug\LblFontes.dll
+C:\Users\Pedro\AppData\Local\Temporary Projects\LblFontes\obj\Debug\LblFontes.xml
+C:\Users\Pedro\AppData\Local\Temporary Projects\LblFontes\obj\Debug\LblFontes.pdb

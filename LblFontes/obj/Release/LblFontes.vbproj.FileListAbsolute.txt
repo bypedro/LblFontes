@@ -1,0 +1,18 @@
+C:\Users\Pedro\AppData\Local\Temporary Projects\LblFontes\bin\Release\LblFontes.dll
+C:\Users\Pedro\AppData\Local\Temporary Projects\LblFontes\bin\Release\LblFontes.pdb
+C:\Users\Pedro\AppData\Local\Temporary Projects\LblFontes\bin\Release\LblFontes.xml
+C:\Users\Pedro\AppData\Local\Temporary Projects\LblFontes\obj\Release\LblFontes.LblFontes.resources
+C:\Users\Pedro\AppData\Local\Temporary Projects\LblFontes\obj\Release\LblFontes.Resources.resources
+C:\Users\Pedro\AppData\Local\Temporary Projects\LblFontes\obj\Release\LblFontes.vbproj.GenerateResource.Cache
+C:\Users\Pedro\AppData\Local\Temporary Projects\LblFontes\obj\Release\LblFontes.dll
+C:\Users\Pedro\AppData\Local\Temporary Projects\LblFontes\obj\Release\LblFontes.xml
+C:\Users\Pedro\AppData\Local\Temporary Projects\LblFontes\obj\Release\LblFontes.pdb
+C:\Users\Pedro\documents\visual studio 2010\Projects\LblFontes\LblFontes\bin\Release\LblFontes.dll
+C:\Users\Pedro\documents\visual studio 2010\Projects\LblFontes\LblFontes\bin\Release\LblFontes.pdb
+C:\Users\Pedro\documents\visual studio 2010\Projects\LblFontes\LblFontes\bin\Release\LblFontes.xml
+C:\Users\Pedro\documents\visual studio 2010\Projects\LblFontes\LblFontes\obj\Release\LblFontes.LblFontes.resources
+C:\Users\Pedro\documents\visual studio 2010\Projects\LblFontes\LblFontes\obj\Release\LblFontes.Resources.resources
+C:\Users\Pedro\documents\visual studio 2010\Projects\LblFontes\LblFontes\obj\Release\LblFontes.vbproj.GenerateResource.Cache
+C:\Users\Pedro\documents\visual studio 2010\Projects\LblFontes\LblFontes\obj\Release\LblFontes.dll
+C:\Users\Pedro\documents\visual studio 2010\Projects\LblFontes\LblFontes\obj\Release\LblFontes.xml
+C:\Users\Pedro\documents\visual studio 2010\Projects\LblFontes\LblFontes\obj\Release\LblFontes.pdb
